@@ -9,7 +9,7 @@
   <Identity
     Name="d7ab3710-a976-4596-8b3a-14c7a3339740"
     Publisher="CN=ecomter"
-    Version="1.3.8.0" />
+    Version="1.3.9.0" />
 
   <mp:PhoneIdentity PhoneProductId="d7ab3710-a976-4596-8b3a-14c7a3339740" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
